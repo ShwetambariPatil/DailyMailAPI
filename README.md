@@ -1,2 +1,2 @@
 # DailyMailAPI
-Daily Mail API
+Add Postman collection in Postman
